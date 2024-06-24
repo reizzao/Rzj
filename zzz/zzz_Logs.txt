@@ -58,7 +58,7 @@ Pass: ????
 -
 google :
 transportes : rzjTransportes@gmail.com // Rzj302010@
-musical : reizaoMusical : RzjMAMA
+musical : reizaoMusical : Rz..30..@
 pgm : rzjprogramador : Rzj_P_M_EU
 
 Instagram compositor: @ReizaoJR
@@ -71,7 +71,6 @@ App Caixa loteria : cpf // pass: MAEPAIFABIO
 ---
 App Mercado Pago :: reizao77 // bloqueioTelaZ
 
-- log_programador : reizaotec@gmail.com
 - log_playlist_music: reizaoMusical@gmail.com
 
 
