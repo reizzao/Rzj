@@ -9,7 +9,6 @@
  tutorial : https://youtu.be/NvQXCFNzCyw?si=eaZv0cCPsyxpgnoI
 
 VIAJENS
-Buser - meu cadastro é rzjprogramador@gmail.com -- Rz..30... sem o arroba
 Conta para reembolso: é devolvido do mesmo modo e conta que fez a reserva.
 ---
 GOOGLE
@@ -21,7 +20,12 @@ pay.rzj1@gmail.com // pass: Rz...30..@ // vinculado: cel do leo
 pay.rzj2@gmail.com // pass: Rz...30..@ //
 -
 VINCULADOS GOOGLE
--- reizao1977 : [ Authenticator, ]
+conta : reizao1977 : aplicacoes: [
+  - Authenticator,
+  - buser: www.buser.com.br-- pass: Rzj..30..sem@ ,
+  - 99_Passageiro Loga_Celular : 1197624... Pass: Rzj30...@ // pass Pagamentos : PAI_EU
+  -
+  ]
 
 
 ===== NOVOS ==========
@@ -30,8 +34,6 @@ Renata Pereira dos Santos : 28686656838
 Gustavo Eduardo dos Santos Zacharias : 48350386819
 Leonardo Eduardo dos Santos Zacharias :  52080160877
 
-Meu Celular
-Que era da Renata : Android 9
 
 Claro LEO : 11 993110287 - no nome de Reinaldo  - prezao 20.00 por 60 dias apartir de 05-06-2024
 
@@ -107,12 +109,6 @@ MOTORISTA
 -
 - --
 PESSOAL_PASSAGEIRO
-- Log 99 Como Passageiro :
-- Vinculado : Google:  reizao1977
- email: reizao1977@gmail.com // era reizaomusic
-Login : com o numeroCelular 1197624...
-Pass: Rzj30...@
-- pass Pagamentos : PAI_EU
 
 ---
 Logs UBER Como Passageiro
@@ -224,10 +220,6 @@ Conta Videos - Estudante rzjvideosum@gmail.com :: Rzj30...
 youtube: Playlists deste canal : https://studio.youtube.com/channel/UCijngGWZTD5Ul6QEKuwWq9A/content/playlists
 ...
 
-viajem
-transporte_onibus:
-  buser: www.buser.com.br
-email: reizao1977@gmail.com :: Rzj30...
 
 
 Musicais
@@ -239,12 +231,6 @@ PGM Ignite : drive rzjprogramador : https://drive.google.com/drive/u/4/folders/1
 ---
 
 LOGS MUSICAL
-
-rede: "MODELO" , finalidades: ["", ], identidade: "", acesso: "", pass: "", vinculado: "", links: [ "", "", ],  }
-
-
-
-rede: "Google, gmail," , finalidades: ["", ], identidade: "", acesso: "reizao1977@gmail.com", pass: "Rzj-PAPA-MAMA-EU-@", vinculado: "", links: [ "", "", ],  }
 
 rede: "Google, gmail" ,finalidades: ["Gerenciar Musicas Compositor", ],  identidade: "@ReizaoMusic", acesso: "reizaomusic@gmail.com", pass: "",  vinculado: "inicio fone guga 965892412 depois meu 976243818", links:[ "Canal_Youtube: @ReizaoMusic",
 "",
