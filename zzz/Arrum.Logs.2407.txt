@@ -296,14 +296,14 @@ MeusCursos : https://consumer.hotmart.com/purchase
 
 contas_provedores:
   google: [
-  rzjprogramador@gmail.com ,
+  rzjprogramador@gmail.com , pass: Rz..PA_MA sem @
 reizaomusical@gmail , Rz..MAMA,
 rzjvideosum@gmail.com  :: s: Rzj30.. :: -> videos um
 r10programador@gmail.com ,
 
   emails :
   [
-"padraorzj  :: s: Rz.. PAI MAE EU",
+"padraorzj  :: s: Rz.. PAI MAE EU @",
 reizaomusical :: Rz.. 30...10
 "rzjvideosum@gmail.com :: s:Rz..30 "
 ],
