@@ -23,7 +23,7 @@ VINCULADOS GOOGLE
 conta : reizao1977 : aplicacoes: [
   - Authenticator,
   - buser: www.buser.com.br-- pass: Rzj..30..sem@ ,
-  - 99_Passageiro Loga_Celular : 1197624... Pass: Rzj30...@ // pass Pagamentos : PAI_EU
+  - 99_Passageiro - somente conta google reizao2977 ja loga, se precisar tbm  Loga_Celular : 1197624... Pass: Rzj30...@ // pass Pagamentos : PAI_EU
   -
   ]
 
