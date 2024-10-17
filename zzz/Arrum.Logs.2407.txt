@@ -40,6 +40,9 @@ conta : reizao1977 : aplicacoes: [
   - buser: www.buser.com.br-- pass: Rzj..30..sem@ ,
   - 99_Passageiro - somente conta google reizao2977 ja loga, se precisar tbm  Loga_Celular : 1197624... Pass: Rzj30...@ // pass Pagamentos : PAI_EU
   -
+
+conta: reizaomusic@gmail.com
+  - spotify , pass: Rz...30...#
   ]
 
 
